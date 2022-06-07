@@ -5,6 +5,7 @@ Individual Projects that I tried my hand at:
 
 - Topic Modelling using LDA and Gensim: Tried to find relevant/trending topics from a large data set consisting of social media posts. This was done using basic NLP followed by semantic-based models such as LDR and Gensim
 
-User Preference Prediction
+- User Preference Prediction: Looked at a data set that has user ratings for different items and created a recommendation engine that helps predict whether a user will like a particular item or not. 
+
 
 XIRR Data Scraping and Automation
