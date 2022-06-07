@@ -7,5 +7,4 @@ Individual Projects that I tried my hand at:
 
 - User Preference Prediction: Looked at a data set that has user ratings for different items and created a recommendation engine that helps predict whether a user will like a particular item or not. 
 
-
-XIRR Data Scraping and Automation
+- XIRR Data Scraping and Automation: Created an automated framework that scrapes and calculates financial metrics from various mutual funds on Money Control and provides weekly reports
